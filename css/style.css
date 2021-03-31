@@ -1,0 +1,77 @@
+.navbar-nav .nav-link{
+    padding-right: 0;
+    padding-left: 0;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #333;
+}
+
+.navbar-nav .nav-link:hover{
+	    color: #0fdafb;
+}
+
+
+
+
+.service-section{
+
+}
+h6{
+    color: #0fdafb;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+h1{
+    text-transform: capitalize;
+    font-weight: 400;
+    font-size: 35px;
+}
+
+.service, feature{
+    padding: 25px;
+}
+
+.feature{
+	padding: 25px;
+}
+.service img{}
+h3{
+    font-size: 24px;
+    margin: 20px 0;
+}
+p{
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.feature-section{
+	padding: 100px 0;
+}
+.partners-section{
+	padding: 100px 0;
+}
+.partners-section h1{
+	font-size: 62px;
+	font-weight: 100;
+}
+.partners-section a{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+}
+
+ .partners{
+ 	text-align: center;
+ }
+ @media(max-width: 767px){
+ 	.partners-section h1{
+	font-size: 50px;
+}
+ }
+ footer{
+
+}
